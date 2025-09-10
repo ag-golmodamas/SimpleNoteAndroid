@@ -1,2 +1,2 @@
 # SimpleNoteAndroid
-Simple Note taking application
+Simple Note taking application for Android
